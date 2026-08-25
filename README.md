@@ -1,1 +1,1 @@
-# 🔐 Gerador de Senhas Aleatórias enzao
+# SenhasSeguras2026
